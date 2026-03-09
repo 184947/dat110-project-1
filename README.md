@@ -1,5 +1,22 @@
 ## DAT110 - Project 1: Socket Programming and RPC middleware
 
+Distributed RPC middleware implemented in Java.
+
+The system implements:
+
+• A messaging layer on top of TCP sockets
+• A lightweight RPC middleware
+• An IoT application using RPC (sensor, controller, display)
+
+The project demonstrates concepts such as:
+- message encapsulation
+- protocol design
+- marshalling / unmarshalling
+- remote procedure calls
+
+
+-------------------------
+
 The tasks related to this project will be part of the lab exercises in the next two weeks.
 
 The project will be / has been introduced in the lectures See Canvas for details.
